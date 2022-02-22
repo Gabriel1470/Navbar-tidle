@@ -1,0 +1,52 @@
+.barnav{
+    display: flex;
+    height: 4rem;
+    justify-content: space-between;
+    padding: 1rem 2rem 0;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+ 
+span {
+
+    color: white;
+    text-align: center;
+}
+
+button{
+    height: 2rem;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.link {
+    display: flex;
+    flex-direction: row;
+height: 100%;
+width: 550px;
+gap: 8rem;
+justify-content: flex-end;
+align-items: center;
+}
+
+.navlink { 
+    text-align: center;
+    font-stretch: expanded;
+    color: white;
+    width: 7rem;
+}
+
+.parte {
+display: flex;
+}
+
+
+
+.back {
+    width: 9rem;
+}
